@@ -1,4 +1,4 @@
-# Bharti Chopra — Data Analyst Resume
+# Bharti Chopra
 
 ## 👩‍💻 About Me
 
