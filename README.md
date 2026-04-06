@@ -56,13 +56,13 @@
 
 ## 📊 PROJECTS
 
-### Crowdfunding Campaign Analysis 
+### Crowdfunding Campaign Analysis | <a href="https://github.com/BhartiChopra/Kickstarter-CrowdFunding">Github</a>
 * Cleaned and transformed campaign datasets using Excel pivot tables, filters, and logic.
 * Built a Power BI dashboard to analyze campaign success by category and funding goal.
 * Used SQL joins and aggregations to extract insights on backer behavior and funding trends.
 * Designed Tableau storyboards showcasing geographical and temporal success patterns.
 
-### HR Analytics
+### HR Analytics | <a href="https://github.com/BhartiChopra/HR-Analytics">Github</a>
 * Analyzed employee attrition trends using HR datasets to identify key retention factors.
 * Built dashboards highlighting workforce demographics, attrition rates, and performance metrics.
 * Presented insights and recommendations for HR policy improvements.
